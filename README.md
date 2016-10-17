@@ -1,2 +1,2 @@
 # Javascript-Language
-Javascript learning resources
+Javascript learning resources in the Wiki.
